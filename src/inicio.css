@@ -2,6 +2,8 @@
     height: 100vh;
     width: 100%;
     padding-top: 4rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
     text-align: center;
 }
 
@@ -11,4 +13,5 @@
 
 .titleInicioMini{
     font-weight:300;
+    padding-bottom: 2rem;
 }
