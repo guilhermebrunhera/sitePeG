@@ -1,9 +1,26 @@
-import './App.css';
+import {
+  createBrowserRouter,
+  RouterProvider
+} from "react-router-dom";
+import Inicio from './pages/inicio';
+import Alerta from './pages/alerta';
 
 function App() {
+  const router = createBrowserRouter([
+    {
+      path: "/",
+      element: <Alerta />,
+    },
+    {
+      path: "/Inicio",
+      element: <Inicio />,
+    },
+  ]);
   return (
-    <div className="App">
-      <h1>Teste Vercel 2.0</h1>
+    <div>
+
+      <RouterProvider router={router} />
+      
     </div>
   );
 }
