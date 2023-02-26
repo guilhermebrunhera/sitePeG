@@ -81,6 +81,8 @@ Com todo meu amor,<br/><br/>
 
 Ass. Guilherme Cintra Brunhera, seu namorado."</span> <br /> <br />
 
+Feliz 1 mês de namoro meu amor!! TE AMOOOOO <img src="../favicon-16x16.png" alt='heart'></img><br /><br />
+
 Me conte o que achou clicando no botão abaixo
 <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5544998016525&text=Meu amor, eu ...">
     <button>AQUI</button>
